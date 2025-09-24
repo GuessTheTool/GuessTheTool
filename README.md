@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @GuessTheTool
-- 👀 I’m interested in playing CTFs, I love MetaRED!
-- 🌱 I’m currently learning how to create decent stego challenges
-- 💞️ I’m looking to collaborate on finding new esoteric stego tools, ctf players love them!
+- 👋 Hi, I’m @GuessTheTool, an anonymous cybersecurity student at @URJC
+- 👀 I’m interested in playing CTFs, I love Steganography challenges!
+- 💞️ I’m looking to collaborate on finding new esoteric stego tools, CTF players love guessing which tool solves a challenge!
